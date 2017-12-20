@@ -1,0 +1,34 @@
+* {
+  font-family: Helvetica;
+}
+
+#titleBanner {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("./pattern.jpeg");
+}
+
+.category h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#hacksaw h2 {
+  background-color: mediumspringgreen;
+}
+
+#frames h2 {
+  background-color: lightcoral;
+}
+
+#finnish h2 {
+  background-color: skyblue;
+}
+
+.price {
+  font-weight: bold;
+  color: blue;
+}
